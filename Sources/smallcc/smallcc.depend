@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1383053113 source:e:\programme\c_plusplus\testprojects\smallcc\lex.yy.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"smallh.h"
+	"y.tab.h"
+	<stdlib.h>
+
+1381733136 e:\programme\c_plusplus\testprojects\smallcc\smallh.h
+
+1383053113 e:\programme\c_plusplus\testprojects\smallcc\y.tab.h
+
+1383106887 source:e:\programme\c_plusplus\testprojects\smallcc\y.tab.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<malloc.h>
+	"smallh.h"
+	"common.h"
+	<stdio.h>
+	<alloca.h>
+	<malloc.h>
+
+1383488993 source:e:\programme\c_plusplus\testprojects\smallcc\ex.c
+	<stdio.h>
+	<string.h>
+	"smallh.h"
+	"y.tab.h"
+	"common.h"
+
+1381719482 source:e:\programme\c_plusplus\testprojects\smallcc\calc3g.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"smallh.h"
+	"y.tab.h"
+
+1381735122 e:\programme\c_plusplus\testprojects\smallcc\common.h
+	<stdio.h>
+

@@ -1,0 +1,46 @@
+push 0
+pop a
+push 0
+pop b
+push 0
+pop c
+push a
+in a
+push b
+in b
+push c
+in c
+push a
+push b
+compGT
+push b
+push c
+compGT
+and
+jz L000
+push 1
+out
+jmp L001
+L000:
+push b
+push c
+compLT
+push a
+push b
+compGT
+or
+jz L002
+push 2
+out
+jmp L003
+L002:
+push b
+push c
+compGT
+not
+jz L004
+push 3
+out
+L004:
+L003:
+L001:

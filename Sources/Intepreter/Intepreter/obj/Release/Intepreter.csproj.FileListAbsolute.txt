@@ -1,0 +1,16 @@
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\bin\Release\Intepreter.exe.config
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\bin\Release\Intepreter.exe
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\bin\Release\Intepreter.pdb
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\obj\Release\Intepreter.csprojResolveAssemblyReference.cache
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\obj\Release\Intepreter.exe
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\obj\Release\Intepreter.pdb
+E:\Programme\Homework\源代码\Intepreter\Intepreter\bin\Release\Intepreter.exe.config
+E:\Programme\Homework\源代码\Intepreter\Intepreter\obj\Release\Intepreter.exe
+E:\Programme\Homework\源代码\Intepreter\Intepreter\obj\Release\Intepreter.pdb
+E:\Programme\Homework\程序\Intepreter\Intepreter\bin\Release\Intepreter.exe.config
+E:\Programme\Homework\程序\Intepreter\Intepreter\obj\Release\Intepreter.exe
+E:\Programme\Homework\程序\Intepreter\Intepreter\obj\Release\Intepreter.pdb
+E:\Programme\Homework\程序\Intepreter\Intepreter\bin\Release\Intepreter.exe
+E:\Programme\Homework\程序\Intepreter\Intepreter\bin\Release\Intepreter.pdb
+E:\Programme\Homework\程序\Intepreter\Intepreter\bin\Release\Intepreter.exe.CodeAnalysisLog.xml
+E:\Programme\Homework\程序\Intepreter\Intepreter\bin\Release\Intepreter.exe.lastcodeanalysissucceeded

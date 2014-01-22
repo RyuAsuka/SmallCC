@@ -1,0 +1,7 @@
+push 0
+pop a
+push a
+inc
+push a
+inc
+pop b

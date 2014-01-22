@@ -1,0 +1,29 @@
+array prime[11];
+i := 2;
+while(i<11) do
+begin
+	prime[i] := 1;
+	i++;
+end
+i := 2;
+while i<11 do
+begin
+	if prime[i] == 1 then
+	begin
+		j := 2;
+		while j <= 10/i do
+		begin
+			prime[j*i] := 0;
+			j++;
+		end
+	end
+	i++;
+end
+
+i:=1;
+while(i<11)do
+begin
+	if prime[i] == 1 then
+		write i;
+	i++;
+end

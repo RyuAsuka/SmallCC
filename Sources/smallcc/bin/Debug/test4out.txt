@@ -1,0 +1,74 @@
+new prime
+alloc 11
+push 2
+pop i
+L000:
+push i
+push 11
+compLT
+jz L001
+push prime
+push i
+push 1
+stm prime
+push i
+inc
+jmp L000
+L001:
+push 2
+pop i
+L002:
+push i
+push 11
+compLT
+jz L003
+push prime
+push i
+ldm prime
+push 1
+compEQ
+jz L004
+push 2
+pop j
+L005:
+push j
+push 10
+push i
+div
+compLE
+jz L006
+push prime
+push j
+push i
+mul
+push 0
+stm prime
+push j
+inc
+jmp L005
+L006:
+L004:
+push i
+inc
+jmp L002
+L003:
+push 1
+pop i
+L007:
+push i
+push 11
+compLT
+jz L008
+push prime
+push i
+ldm prime
+push 1
+compEQ
+jz L009
+push i
+out
+L009:
+push i
+inc
+jmp L007
+L008:

@@ -1,0 +1,6 @@
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\bin\Debug\Intepreter.exe.config
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\obj\Debug\Intepreter.csprojResolveAssemblyReference.cache
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\bin\Debug\Intepreter.exe
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\bin\Debug\Intepreter.pdb
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\obj\Debug\Intepreter.exe
+E:\Programme\C_sharp\TestProjects\Intepreter\Intepreter\obj\Debug\Intepreter.pdb

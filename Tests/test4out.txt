@@ -1,0 +1,19 @@
+push 0
+pop a
+push a
+in a
+L000:
+push a
+push 10
+compLT
+jz L001
+push a
+push 5
+compEQ
+jz L002
+halt
+L002:
+push a
+inc
+jmp L000
+L001:

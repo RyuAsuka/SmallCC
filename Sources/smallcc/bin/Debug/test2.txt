@@ -1,0 +1,35 @@
+push 0
+pop a
+push 0
+pop b
+push a
+in a
+push b
+in b
+push a
+push b
+compLT
+jz L000
+push b
+pop t
+push a
+pop b
+push t
+pop a
+L000:
+L001:
+push a
+push b
+mod
+pop r
+push b
+pop a
+push r
+pop b
+push r
+push 0
+compEQ
+jz L001
+L002:
+push a
+out

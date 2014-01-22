@@ -1,0 +1,19 @@
+/* Program 1: Find 2 number's GCD */
+a := 0;
+b := 0;
+read a;
+read b;
+if a<b then 	// if a is less than b, change a and b
+begin
+	t := b;
+	b := a;
+	a := t;
+end
+repeat
+begin
+	r := a%b;
+	a := b;
+	b := r;
+end
+until r == 0;
+write a;

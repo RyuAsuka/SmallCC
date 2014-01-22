@@ -1,0 +1,15 @@
+push 1
+push 2
+compLT
+push 2
+push 3
+compLT
+and
+jz L000
+push 1
+out
+jmp L001
+L000:
+push 0
+out
+L001:
